@@ -7,5 +7,4 @@ Here are some fact's abut me:
 - 🤔 I’m looking for help with OSDev forums
 - 💬 Ask me about coding, OS development and Web development
 - 📫 How to reach me: Email aswindeepak40@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I have a website (here)[http://hypercreeck.cf/] and it's **awesome!**
