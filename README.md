@@ -4,7 +4,7 @@ Here is some fact's about me:
 - 🔭 I’m currently working on the [Cadex OS](http://github.com/opencreeck/Cadex-OS-Official)
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Cadex OS
-- 🤔 I’m looking for help with OSDev forums
+- 🤔 I’m looking for help with [OSDev forums](http://forum.osdev.org)
 - 💬 Ask me about coding, OS development, and Web development
-- 📫 How to reach me: Email aswindeepak40@gmail.com
+- 📫 How to reach me: Email [aswindeepak40@gmail.com](mailto:aswindeepak40@gmail.com)
 - ⚡ Fun fact: I have a website [here](http://hypercreeck.cf/) and it's **awesome!**
